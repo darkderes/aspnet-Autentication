@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/13069018/119747732-57dae300-be61-11eb-841a-6552beaca103.png)
+
+
+
 Codigo de ejemplo Protección de una aplicación web de ASP.NET Core mediante el marco de Identity
 
 Challenger de Microsoft Build año 2021
